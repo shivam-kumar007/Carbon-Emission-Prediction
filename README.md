@@ -11,7 +11,7 @@ Carbon-Emission-Prediction/
 │
 ├── Carbon Emmision Prediction/
 │   └── data_preparation.ipynb     # Jupyter Notebook for data loading and exploration
-│
+│   |___ data preparation2.ipynb
 └── climate_change_download_0.xls  # Excel data file (not included, add manually)
 ```
 
