@@ -4,14 +4,15 @@ This project is for preparing and analyzing climate change data (carbon emission
 
 ---
 
-## Project Structure
-Carbon-Emission-Prediction/
+# Project Structure
 │
 ├── Carbon Emmision Prediction/
 │   ├── data_preparation.ipynb         # Jupyter Notebook for data loading and exploration
 │   ├── data preparation2.ipynb        # Additional data preparation steps
 │   └── carbon_emission_model.ipynb    # Jupyter Notebook for carbon emission prediction model
-└── climate_change_download_0.xls      
+│
+└── climate_change_download_0.xls
+````     
 
 
 ## Steps to Use
